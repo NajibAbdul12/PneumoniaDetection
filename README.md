@@ -10,3 +10,4 @@ In this project, the proposed system uses convolutional network-based model that
 
 The data-set is divided into three folders (train, test, and val) with sub-folders for each picture type(Pneumonia/Normal). There are 5,863 X-Ray images (JPEG) in total, divided into two categories(Pneumonia/Normal).
 
+![image](https://user-images.githubusercontent.com/36960044/133886903-faf49964-0b0a-418a-a7ec-ad5e4a4f3325.png)
